@@ -362,9 +362,9 @@
 
 //       <Header FullName = {FullName}/>
 //       <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Ullam nesciunt, rerum suscipit cum animi ex tempora reiciendis ducimus corporis necessitatibus laboriosam impedit dolores modi optio hic harum tempore. Adipisci, ducimus!
-    
+
 //     <img src="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys/RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3N//AABEIAJQA9AMBIgACEQEDEQH/xAAcAAABBQEBAQAAAAAAAAAAAAAAAQIDBAYFBwj/xABAEAABAwIDBQYDBgUDAwUAAAABAAIDBBEFEiETMUFRYQYUInGBkTKh0QdCUnKxwSMzguHwYpKyFXOiNENEU2P/xAAaAQADAQEBAQAAAAAAAAAAAAAAAQIDBAUG/8QAJhEAAgIBBAMAAQUBAAAAAAAAAAECERIDBBMhMUFRMhQjQmFxBf/aAAwDAQACEQMRAD8A9ezozqptCnbRcvGjruJZzpdoq20KNoUuMOiztEbRVtoeSM5UvRH0WdojOqudGdS9EKRZ2iNoq2dGdZy29jUUWDIja2VYuTSVjLay9MpQRbEyc2cXVG6S65NTS3EO4sfEmduCRr279VDUTtHwuF1ydoQbXKQvJRPebqWmtNQ7+kLbU7LxnTdsqd0t1MNtry/JmnGi4Jku2VMGycHLshtGvYnBFvapwkVQPslzrZbYhxRa2iXaKpnS7RaLbiaRb2iNoqu0PJG0KtaJNItbRG0VXaHkjaHknxBSLW0RnVXaI2iriDotZ0KptUJ8SF0Hczzd7pe5nmfdXc3VFwpzZNFPufU+6XuY4k+6uXHNGiWTFRT7mOZS9zHM+6touEZMdFTug6+6Xug6+6s3CL9ClkwK3dB190vdGdVYuEXCWTGVjSMtxCb3Nn4irmiQ2Sch2yp3Rg4lJ3VnVWyQmEhZykUpMhjoxIbDgo3UrQ4jXRX6c2JIB16KvKbSOusWoxqf0anJyor92HX3R3UdfdWLhKCN62U0Ntlbuo5k+qO6jmfdWxZKCFamR2VO6DmfdHdBzPurdwi4V5iplTuo/EfdHd/P3VvRJompktFbuw/EUd3/ANSt6IsFSmKin3f/AFI2BH3z6K7lCMoVZBRSMJ/G5IYD+Nyu5AjIjImmUNgfxuSq7kCE8wphYJUiFz2ai6ckWCRBSFQ6wG4o9UzVFyEBRIk0TboBQFDkl0FwSZgkxi3SXQSkJUNgkBKY4oJUchuLLDVlSstIuUZ3+IHpyVSsOSpNjfTcp6KYBuTZuFvvW3qjiUjNv4CSdzgsNxrxW3g0/fZOmv3GipiWIuo2xsga100l7Bx8LQOJ+Wiqx4zXNF5KSB45hzmfVYb7YsaNJgkzIXlstTI2mYWnUNb4nm/y9V4zTY7i9L/6bE6uP8szvqvY2+jHjTkuzPUm7pH1I3H5W/zKAf0TXPzATx2hi+/RVLf9h/Ry+aoO3faiAAMxmocB/wDYGv8A+QK6VN9p/aSIfxZKSfrJTgf8bLbh0/hnnI+hxj9GfibUt84T+yeMeww//Jy/mYQvBqb7Vq5r89VhVHI8tDSYpHsBAN9xJC6NP9rFG4AVWDzR89lMHfqAl+ngx8kj21mLYc/4a6D+p9v1UzKumf8Ay6mB/wCWRp/deNwfaT2cmP8AGjqoPzxX/S6uQ9sOylUCW4gxn/diLf2S/TR9MOVr0evg33a+RunXPIryiDFcBn1psQoj+WQNVs1dTThs1FVzXBaWZZXOa4k6C17EFJ7Zrux8t+Uemgp29RNcbXdvsL+acH9FiaD0JmfojOmKxyEzMOqVFBY0OS5hfeorJMhv4fdTiGRLm1S3UFn33/JOGdGIZEt0JhLgNU4OHDVRTHaFQEXCQo7GqEsi3JOuhS2xjSHJpa7opLJCFLYELmv5gKF7pAQfDcK05QSHUc+pXNrTUY242WhBiM8Q8QY4eyo1tdtIpp92zYXAA3ueA/ZdHZ0jI9tIcwJAHmdNFnO09fS0NBLIbthp2OqJNb3a3UD/AHfMLGSevLT05rr/AEacVbSPEPtXxTvePtomOzMoo8jjwMjvE5YdWK6qlrayerqCXSTPL3HqTdV19IulRwglSIQAqLpEIAW6LndfRIhAF/BaB2J4rSUTBrNKGny4/JfQ+DUUc+OUVNGLQUzds8AaAM0YPVxB9CvJ/smw7a4tU4lI27KWLIzTe9/0APuF7f2NjDaerxGTfUSCOM//AJsuB/5Fx9UpuoMErkaXUFOCjEjSL3RtG/iC4kn8Oi0SFFk3O06XS6cymAuiE26EwKTMVoyP5zm+bSE5uI0jtBOw+ZWW2Twy7RcjdofdRuiLg4OkytZqTbT5q8UI2DaumcQ1ssZJ3AOCkL4+ixLyMpDY3v00yA7xySuoA+LaVJMNrWbY3CWK+io2nh4BFg425cLrF0jX7Z/dqyR0jPuue4AeimmkxNspfFUZWAaBmt/cJ4/2FGvvYWOiMxGlisjHjdcwljnvL9TlfE4EjpcKzDjNdNRtmDGNvweyxt5WUOFDVmnDvLROD9dwXAZjEjWN2jIy/wDMRdQ1PaNtO0GWCQu0/lBz/wBGlTgPs0hJJRfRcOLtDA9geKWosd5It8jZWWY1SHe4MPU3/QqXEdMvuc23xeyhkIy8PVJ36nd8UrLdQQmPqaeQfz4+niCx1IJouNoZG9oa+NwcMx0cyxI5kDf0Xk32wYqIsGNHE65rJgzXfs4zf5ut7L0vEJmw08stw8jRoDhvOg+ZXz19pGIiu7SSQNcXRUTRC083fePusv8Al6d6kpfOkLXdRr6ZJCEL2zkBCEIAEIQgAS6jekXSwCgdieM0dEP/AHZAHX4N3n5IA9W7G4e7CuyFOzKe8VR2pA0Jc+waP+IXr9DRihoqekY0WhjDLlu8jf8ANY7AaYVeP0sLB/ApW94fy8PhYPc3/oW8IGa438Ss9aX8SoKyExOJ+EjqAAo3Mtz9VazC3FKAAbj2KxyKxKRiHxFgJ3aj+ybkDD8MQ8irzhfcfRNswm4snkGJTMhvo5n+4IV2yE8kLFmSjkY9ws2bUXzkAD6pwkiZLmJjYOguSEyOnncW3kzH8bvpeyeImxx5hIxhIOY5Bf05KaNbK1RVuDXOgZNKTcHJoqrK6zQDS1Zdbxfwwb+RJH6K0xhAcW1UZcCQLcL8+ai7rEXtvcnU8T+6dILKc9W6zniOS1vgkABHqNUYVLtMzphM7KS13iJIFuAsFcps7LjZMGUkAulJG/5/JSQuLp9tPJC2NwNmhh09blAEdWaieriFN4W6OLS+1z133XQayRrSJJ9+624eXNRtZGBeFuUX1LtB/dJlbG+75Y5Gcntt+6KbHaHQ7N7jHJNK+4u1wF235XUogAIzEgbhY2UXeYw8McWttqPD+ijZWMk8ToZHNGp3cEqGpFmaCGT4MtyLZt5RDSCHMYmsceLnO0TNsGNIMQcCbt4EA8DzQKibTwtbH8ykohmPlpnSW2r2t5jeCnCnZezn5gBu4FSQOdM8BkLnjiS+9h5WVh9HUPbamZLDrq/ID8ilKHo0jNGa7aV9PhFA6YNDe7xOmd1NsrB6k/ovnCWV80r5ZXF0j3FznHiTvK967UYQ7FhV0OJSVLA94s/QOIadNLWtxsvNsY+znFKQOkw+RldEODRlePT+66tOGMaObVnlIxSFNUU01LKYqiJ8Ug3se2xURFlRkIhCEACEIQALe/ZTh+euqsTkByws2UZt9528+jR/5LBgXXsPZmjdhXZWmgYLVM4zOuPvvNgPmAqihM9C7ESU8NLUVkssYfVS2YS4XyM0HzzH1WpbVwu+CZjvIhY4RQ0lNFTtbfZMDBbUuNlGKZxaHNBJDs500HRZS003bZom0bUzNto4O1+7wSl4Nt9/ZYaKmkYXSRy2u6+ZrtSFKw1Eb/DNJc8S4m6nh+MMjYtztkIAaWkXvm/ayUAOOjb9bLH1mJV1HTOkiqX3bwPBRxdoauSMSvq2wlxs2KVrSCbabgD80cTQZGvkeWPI/iejRZIsfH2rxZjAJIKXN0B+qEccgyKNPjdPJUMigkaZNTmJLh7hSunqHSudOWiJpGU+G1v1UUEIbIJGMiBA3RtsESkPkLCS7UfeOX6J0OyeJ8kMjXsnbI0uNw0EZR87lWxXtgn2ZdK6S24Nv7jh+6pOhlcAC8gEWDWGw9Xb/ZStc9jP4ORrW6dEUFkrw6aQOlYWEWsBvAvvtu/zckNRAw/wmZn77l+Zx6f20VSphqKtuyY8saRq8FMgghoXd4qqiR8bLZ2tPhFuduiFFexORfL6iY3N2AX+A/upKWjnMmdkbXkuvmDCSOu9aPBKjBsRpBPhghfG3Q8XNPI3XYBGlwNFWIsqMs3CayqttomhpvbMOllcgwGRrWh8rWhvEeL+y76EYoM2ZiV2FQPeJamaWSP42AWN/LenDFaVseamoWkNtmbKfEwW32K6mK4bSVwDpiYpmizZmPyOHQniOh0WXxDDnUJD6qJpia47OopmsjY0kfESQS3rc5TxuokmvA4tPyXpe0MpZI6mcNja2eFrWlh/q389PZVH4rXy3ldVEBlwJobBov8Aia6+vkPZUpop4sslQ6TM0aTxFxeBxFgQBpyBHRRiQZmyB4Lje09NIZJLbvES46dCCsW39NkkMx+sp68RuxOne4AhrKqikyys5nKTcjpY+qowxVbIzNQTx4pTNOpj8E7PzMO/0t5KWuZtwdHyeEudJSve5x6Zs1t/DXjayy84lgnFRSSB0jBdr6d+WVu6/i1udd2vkV1QfXZi130dudmFY4x1NW08UzhoY5WkSMP6jzFlksX+zaCQOkwerdGd4hqNR5B31Xbjx1lfkgxukFcWaCpa3Y1DDprfQHra3DRdGkZLMzNgde3EmAZjS1HgqIx+9uo9VpSJPHMVwDEsIflr6V8beEm9h9VzCLL3dmJwPe6kq4jBOR/IqGZS7yvoR5XXDxfsTguIAvp2GilPGH4fVu72sk0I8jQtNjHYnFcOzPij73CPvQ6m35d6zbmlri1wIINiCLWKkDo9naE4ljVHSAXD5AXflGp+QXtdDGanF4mxgGOlZtSOGbVrB/yP9K86+zOiG3qsReAMjdjHfmdXH2sPUr1TstERRy1ZHjqJC+5/CNG/X1T8IaR2GPDI/hu+3ic7UqnE3NN4pQ/Pctba+W3Lkrjy0C7jd1rAKtG5sfgyAO01ubmyXoonBZKS0akAW5qEyuIs5tiOJSP2rbmN13HUOB4KCRwuL3a62uiEDHzlkkEjHAZS03uuPC/NJJ3hha42IDN9+vBdGd+WB7gSSAQPCE2ljmbDHLSyxMyl1w5lgN30VMgqSRwNd4mNuRe5ivdC6xdUX0DXAcclx6ISsdHNhmErTtXOdKGAlpGgN9+X6p4kc9gsMrrXsLX1HVOhgBa1xOfXxHL/AJ/gVg5Wtv4Wjm42SxFZXzzMByvLWga5n6WtyRSQQMIkbGGF18xLcrjw1vYpRJDFcRuHO41ULqlpJLG2J3kaXRQWWZGv2n8OcMZyDbpuyis4OALiLOv1VMSuJJNz5HckfUB1m7wNdDdD6GcGWPEeyuInFsDJDAf49MSckreRH6HePkfT+yvaqh7SYeaiicWyx2E1O8gOidyPTkeKxz3mWPIGDLy5rK4pgVdSVn/UcDnlpqq+uwflNt9jbeL8D7IuwxPeA57txt5C6dlvo57z5GywnYDty3HT/wBNxFhgxaNty3LZsoG9zeXULchyBUPa0N1Y0X521THR+F2XL4r3a4aG6ddF0AcOqwZzCThZbGN5pJP5Z/Ifu+Q06LgVBijle2SqfQ1JcC6CWYx5/QEZvMf2W6c0PFnDT9FBW0MNdBsqi5tqx7XWc08wRqCspQTZrDUpUzzqqIkjzSMlh2jsrGsBbHIf9Qc4Xv1F+RXBxaNpbNt9m5zAA58EgaIxwzgH08XLgtnjWEV1G18gMlbS6OLM1j1zNDfEPL2XEFHT1dBLNRYzSw1ETrvpxOGtYDuAdvBOu5VHoXnwY2ojbI1+R0dbE0NALbZgL6c7210FxbkqrHHMH00oldEA5rWvDZG7vhI/zkF2a6EPke2ZhgmvcOjkNnb7nhcHmPqufWNe+UmqaZMwDWTRmxvpbXibcDrxWqE0X6btOZ4e6YzTx4nTN+JlRpM0W4P3EjrYro0sMNUT/wBAxJwlGhw7ELhw6NJ18t6y0zHEsDrVTMpBLQdpGN2ttR56jhfVWaLs3jNbC10FI98QJa3vYLMo33F9d+txx4KkS6Xk7s2JPoZtjikL6OQ6B0nwOPR270UGI4XheLtPe6aN8hGkrdH+43/NaTBcNxKCHZYvWsrYHMF4JW5sh/Od48wnYpJg1OxrK2WmgdfIwNIDr8AAPonS9kZGXocOjwygjw+hJdnkytcd5LjbX3+S38MbKeBkMb8kUTQ0A8gFmsEw+pkxMVlRGRS09zDmGV0jjoDY8ACfdaNwzXJcABvsVlJmsUI43ALCHDid2ijLiMpcBcfeO+yUljGOBOjtdeHJQSTBgs+wB4jef8uhDLUNQwTNZI0bMHwu4hJXgNeHMhcBawOXQ6hc8VLTC9pylztDzTou9xNcYWix+6ePPgixA6VjmPAdZxF9AkiLzh5LJ3tIBIblBbe/siogM0Zc4sjltrmNrqk2bLEHR1EkbhoWttY+pVXYqOlHPUbNoEMoIGua2/3QqDKoBo1ldzLi3/LISoCeoxSxtGbjmQqMla5xzOe49FzBI4mxKUvta+vkmQXxUvDTYe6fFMT8dh1tey5wlI14KRsxtvCVFF2R8Wb77+ZIsEZmk+Fo8yVWbIbaut0ThJxy3RiKye2tydOgU0diNWi3VVoy6Td4W8wrIaRZgIcTyRQWcXF8N2b24hh8kkNfC4PjkjNiPr5Ladh+3MGOEYfiWWnxVg+EizZ+reunwrkNaXhxA0tqTuC4faTBBLspKN5jqW+Jr2mxaRrvHFV5Ee0CycvOOw/b108rMI7QkxVYsyGpIs2c8jyd8j8l6IHaBTQ2mPRdMLrILhzSAHWJ3evJZ/HuzVJirHuuYpHC1x8Lj1H7712amphpmGSolZEwalz3ABZTF/tE7PYaSzvXeZQdGQj9/pdME3dojwzs45jZaHEcMgNGde87Yl5dwsN4046eqhi7EYbTzbaeonliG6JxDW25G3xeqzGKfanW1Bc3CqBsTfxvN/8APZZSuxzH8WfaeqfZ33W6hONJUVLJu2epOxDsxgWY0xpo5Boe7tzO/wB31KzWL/aRTMaW4bE17+BcC8/LT5rEtwl0z2uqpDIeTiSPOy6MNBTg2LRppuurSbM3XsirO1WNYiSA+TI4EFt8g9h9VUom1ELg9hYLPzbt7ufmuvLRsjvlAuNDYJG00bgA7MDyCeI1JfDY4DislREyOoIzj4l1toAHEygs+6Bp7rG4a4xOuCdN/ULQ08j5QC0tY089SpcSkydzxmBe4hpfbTgLJZo4y4tbcOczMC7xAi+4dbJJYZGwjZtD5ADYn/PoqLhLq8Ne/M8NDmmxFuFrKMR2OfUAPdswWOLQLWtoN1001tQH3D92rbi9v7b0Py3JYMx3E8FAWuab3tdNILHyzOkJfKBe1gba+SfSSiMNj8bcriTkvp5896qTOB1drZWaaYFzmFrcpaHeIG3XVOhWTPi2ji4Tya9QhWIu5xsykgG+5IihWcSmgbPmdIXXAvvULmBrza6RCBEsTQ42KnfE3KN6EIEQDV1l0KCnjklZmv4jbfuSoQhs6JYxkj2saGgW1HmE1kTHVMr7AOaCAQOSEIYkNmOxpqmWPRzGFwHDTopZcoELMo8ZuXcd4G/1+SEIQpeDGdraaN9JHJbK6QXNlsPsix3EMWw2qpsQl2woy1kcjvjLSNxPFCESNI/ib95Iikdxa24XjHa/7Re0ENc+kpZYKZgNs0Ufi9yShCkEZGSrrMSkz19bUTk/jk3K7S4bTbRvhOrblCEzRnSo6KB7Q5zd/Dgp5YI4vgbZCFujCTLDaOF0ZNiMutgel1FBG0yyX8/mhCTJ9DquFjoQ+1j0UTGhkWbflOgKEIH6J6YDaObybmB5ahdeBzsrLGxI3jzCEJMaLDqh8Moa2xBZfXVWGOc8StJ3DQjzCEKCik7Rzmk5rOOp3qN+5CE0BWlNmlT07ibjQabwOQH1KEJAPkADyCAbHed5QhCZJ//Z" alt="" />
-    
+
 //     <Footer/>
 //     </p>
 //     </div>
@@ -396,39 +396,123 @@
 // export default App;
 
 
-import { useState } from "react"
-import Todo from "./Components/Todo"
+// import { useState , UseEffect } from "react"
+// import Todo from "./Components/Todo"
 
-function App (){
+// import Counter from "./Counter";
+// import { AppRouter } from "react-router-dom";
 
-const [Count ,setCount] = useState(0)
+import { useEffect, useState } from "react";
+import AppRouter from "./router";
+import UserContext from "./Context/UserContext";
+import ProductContext from "./Context/ProductContext";
 
-const somepeople1 = ["Adnan" , "Asdan" , "Adil"]
-
-const somepeople2 = ["Kashaf" , "Mehak" , "Eman"]
-
-let Allpeople =[]
-Allpeople = [...somepeople1,...somepeople2]
-
-console.log(Allpeople)
+function App() {
 
 
 
-  return(
-<div>
+  const [count, setCount] = useState(0)
 
-       
-       {/* <h1 style={{color : "red" , margin : "15px"}}>Count:{Count}</h1>
- <button style={{background : "orange" , border : "orange", margin : "5px" , borderRadius : "50px" , height : "25px"}} onClick={() => setCount(Count +1)}>Increment</button>
- <button style={{background : "orange" , border : "orange", margin : "5px" , borderRadius : "50px", height : "25px"}} onClick={() => setCount(0)}>Reset</button>
- <button style={{background : "orange" , border : "orange", margin : "5px" , borderRadius  : "50px" , height : "25px"}} onClick={() => setCount(Count -1)} disabled ={Count == 0}>Decrement</button>  */}
+  const [allUser, setAllUser] = useState(["kashaf" , "adnan" , "haris"])
+
+  const AllProduct = [
+    {
+      id:1,
+      title : "Iphone",
+      description : "An iPhone is a line of touchscreen smartphones designed, developed, and marketed by Apple Inc. running the proprietary iOS operating system",
+      image : "https://images.olx.com.pk/thumbnails/651095454-600x450.webp",
+      Price : 2000
+    },
+
+    {
+      id : 2,
+      title : "watch",
+      description : "A watch is a timepiece carried or worn by a person. It is designed to maintain a consistent movement despite the motions caused by the person's activities. ",
+      image : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBDa8AS7SCzhv3xkIYHoW77bFtYQlVghzdbjdd_gkoQzKXfv9Ynuj7CoqH&s=10",
+Price : 500 
+    },
+
+    {
+      id : 3,
+      title : "Car",
+      description : "• Wheels and Seating: Typically features four wheels and seats between one and eight people.Primary Use: Built mainly for personal cargo",
+      image : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRc-CEA9wWjNx2MHdIhcFynpSxA4xJpLvtyk9dQPjpN2R4RVZpRsnJmJAzm&s=10",
+    Price : 20000
+    },
+
+    {
+      id : 4,
+      title : "Flower",
+      description : "A flower is the specialized reproductive structure found in angiosperms (flowering plants). Its primary function is sexual reproduction to produce seeds and fruit.",
+      image : "https://fromyouflowers.pk/wp-content/uploads/2023/12/simple-wrap.jpg",
+   Price : 300
+    }
 
 
 
 
-<Todo />
-    </div>
-  )
+  ]
+
+  // const [Count ,setCount] = useState(0)
+
+  // const somepeople1 = ["Adnan" , "Asdan" , "Adil"]
+
+  // const somepeople2 = ["Kashaf" , "Mehak" , "Eman"]
+
+  // let Allpeople =[]
+  // Allpeople = [...somepeople1,...somepeople2]
+
+  // console.log(Allpeople)
+
+
+
+  // const [count, setCount] = useState(0)
+
+
+  // useEffect(() => {
+  //   console.log("Running...")
+  // }, [])
+
+
+  return (
+    <div>
+
+
+    {/* <h1 style={{color : "red" , margin : "15px"}}>Count:{Count}</h1>
+//  <button style={{background : "orange" , border : "orange", margin : "5px" , borderRadius : "50px" , height : "25px"}} onClick={() => setCount(Count +1)}>Increment</button>
+//  <button style={{background : "orange" , border : "orange", margin : "5px" , borderRadius : "50px", height : "25px"}} onClick={() => setCount(0)}>Reset</button>
+//  <button style={{background : "orange" , border : "orange", margin : "5px" , borderRadius  : "50px" , height : "25px"}} onClick={() => setCount(Count -1)} disabled ={Count == 0}>Decrement</button>  */}
+
+
+
+
+    {/* <Todo /> */}
+
+
+    {/* <h1>UseEffect</h1>
+// <h2>{count}</h2>
+
+
+// {
+//   count <= 10 ? <Counter count = {count}/> : null
+// }
+
+// <button onClick={() => setCount(count +1)}>Click</button> */}
+
+
+      <UserContext.Provider value={{allUser , setAllUser}}>
+
+
+<ProductContext.Provider value = {{AllProduct}}>
+
+     <AppRouter />
+
+</ProductContext.Provider>
+
+
+</UserContext.Provider>
+</div>
+
+)
 }
-
-export default App;
+  export default App;
